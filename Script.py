@@ -14,13 +14,13 @@ class script(object):
 My Source Is Private 🤗
 
 <b>DEVS:</b>
-- <a href=https://t.me/hgbotsupdates>HG BOTS UPADTES</a>"""
+- <a href=https://t.me/TEAM_TYSON>HG BOTS UPADTES</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and This Bot will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. 𝐌𝐨𝐯𝐢𝐞𝐬_𝐌𝐞𝐝𝐢𝐚_𝐁𝐨𝐭 should have admin privillage.
+1. 𝙏𝙔𝙎𝞞𝙉 𝞛𝙊𝙑𝙄𝞔𝙎 should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
